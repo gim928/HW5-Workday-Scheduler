@@ -6,4 +6,4 @@
 
 #### Live link to the website:https://gim928.github.io/HW5-Workday-Scheduler/
 
-##### Screenshot:
+##### Screenshot: https://github.com/gim928/HW5-Workday-Scheduler/blob/main/Screenshot%202021-08-06%20201255.png
